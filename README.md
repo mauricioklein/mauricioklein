@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Developer Tools team @ AWS**
 
-- 📝 I regularly write articles on [https://mklein.io/](https://mklein.io/)
+- 📝 [I regularly write articles on mklein.io](https://mklein.io/)
 
 - 💬 Ask me about **AWS, Serverless, CDK, Typescript**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mauricioklein/](https://www.linkedin.com/in/mauricioklein/)
+- 📄 [Know about my experiences on Linkedin](https://www.linkedin.com/in/mauricioklein/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
