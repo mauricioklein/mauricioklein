@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">3x AWS Certified | SDE @ Amazon Web Services</h3>
 
+<h1 align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/11538662/101602758-df8d7c00-39fe-11eb-9da9-f1b95de1624a.jpeg" />
+</h1>
+
 <p align="left"> <a href="https://twitter.com/kleinmau" target="blank"><img src="https://img.shields.io/twitter/follow/kleinmau?logo=twitter&style=for-the-badge" alt="kleinmau" /></a> </p>
 
 - 🔭 I’m currently working on **Developer Tools team @ AWS**
 
-- 📝 [I regularly write articles on mklein.io](https://mklein.io/)
+- 📝 I regularly write articles on [mklein.io](https://mklein.io/)
 
 - 💬 Ask me about **AWS, Serverless, CDK, Typescript**
 
-- 📄 [Know about my experiences on Linkedin](https://www.linkedin.com/in/mauricioklein/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/mauricioklein)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
