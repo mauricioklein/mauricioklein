@@ -2,7 +2,7 @@
 <h3 align="center">3x AWS Certified | SDE @ Amazon Web Services</h3>
 
 <h1 align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/11538662/101602758-df8d7c00-39fe-11eb-9da9-f1b95de1624a.jpeg" />
+  <img width="300" src="https://user-images.githubusercontent.com/11538662/101603461-e4066480-39ff-11eb-925b-57806062fcff.png" />
 </h1>
 
 <p align="left"> <a href="https://twitter.com/kleinmau" target="blank"><img src="https://img.shields.io/twitter/follow/kleinmau?logo=twitter&style=for-the-badge" alt="kleinmau" /></a> </p>
