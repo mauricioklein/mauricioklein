@@ -46,20 +46,20 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
   <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://jasmine.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40" height="40"/>
+  <a href="https://www.ecma-international.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
   </a>
   <a href="https://jekyllrb.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
@@ -73,6 +73,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -81,9 +84,6 @@
   </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -99,6 +99,9 @@
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
