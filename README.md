@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
-<h2 align="center">Fullstack developer, 🐣 in 🇧🇷, 🏠 in 🇪🇸</h3>
+<h2 align="center">Fullstack Engineer, 🐣 in 🇧🇷, 🏠 in 🇪🇸</h3>
 <h3 align="center">3x AWS Certified | SDE @ Amazon Web Services</h3>
 
 <h1 align="center">
