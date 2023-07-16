@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/kleinmau" target="blank"><img src="https://img.shields.io/twitter/follow/kleinmau?logo=twitter&style=for-the-badge" alt="kleinmau" /></a> </p>
 
-- 🔭 I’m currently working on [DevTools team @ AWS](https://aws.amazon.com/)
-
 - 📝 I regularly write articles on [mklein.io](https://mklein.io)
 
 - 💬 Ask me about **React, NodeJS, Typescript, AWS, Serverless**
